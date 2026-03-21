@@ -1,0 +1,2 @@
+# EjerciciosDiagnostico
+Ejercicios diagnostico RIP
